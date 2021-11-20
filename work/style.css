@@ -86,21 +86,3 @@ footer {
   background-color: #aaa;
 }
 
-@media screen and (max-width:768px) {
-  main {
-    width: 100%;
-    margin: 50px auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-   
-  }
-
-  .step-box {
-    width: 90%;
-    margin-bottom: 20px;
-    padding: 10px;
-    position:  relative;
-    background-color: #eee;
-  }
